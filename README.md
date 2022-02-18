@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/18110232/154640837-bec627ae-1fa9-4b75-9846-0ad3bb556e15.png)
 
-<h3> A passionate backend developer from Syberia 🧊 </h3>
+<h3> A passionate backend developer from Siberia 🧊 </h3>
 
 📄  [My actual resume (🇷🇺)](https://ptsans.notion.site/84a44d9e81064f74b7b7af33ad4e8ba1)
 
