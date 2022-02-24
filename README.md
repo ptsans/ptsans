@@ -2,7 +2,7 @@
 
 <h3> A passionate backend developer from Siberia 🧊 </h3>
 
-📄  [My actual resume (🇷🇺)](https://ptsans.notion.site/84a44d9e81064f74b7b7af33ad4e8ba1)
+📄  [My actual resume (RUS)](https://ptsans.notion.site/84a44d9e81064f74b7b7af33ad4e8ba1)
 
 🌱  I’m currently learning **Rust, DDD, k8s, Kafka**
 
