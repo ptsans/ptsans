@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm mostly a passionate backend developer, but I can also be a fullstack. I love doing stuff with Node, Typescript and Rust.
+I'm mostly a passionate backend developer, but I can also be a fullstack. I love doing stuff with Go, Node.js and Rust.
 
 Devoting a lot of time to my Pet-projects.
 
